@@ -1,4 +1,5 @@
 J'ai fait une modif !
 
-A ttention il va y avoir un conflit !
+Attention il va y avoir un conflit !
 
+Moi aussi je fais une modif ! Et j'espère que ça va foutre un peu le bordel...
